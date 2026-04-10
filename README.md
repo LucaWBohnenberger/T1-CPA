@@ -1,15 +1,15 @@
-# 🕸️ Laboratório 1: Web Scraping
+# Laboratório 1: Web Scraping
 
 Este repositório contém a resolução do **T1* da disciplina de Coleta, Preparação e Análise de Dados da PUCRS. O projeto tem como objetivo aplicar técnicas de extração de dados em no cenário de exploração de conexões em um ambiente controlado (Wikipédia).
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python 3.10.19  
 - BeautifulSoup4  
 - Requests  
 - Jupyter Notebook  
 
-## 🛠️ Como Executar o Projeto
+## Como Executar o Projeto
 
 Para garantir que o código rode perfeitamente e sem conflitos de versão, utilizamos o **Conda** para isolar o ambiente de desenvolvimento. Siga os passos abaixo para preparar a sua máquina:
 
