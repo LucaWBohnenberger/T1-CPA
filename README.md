@@ -1,6 +1,6 @@
 # Laboratório 1: Web Scraping
 
-Este repositório contém a resolução do **T1* da disciplina de Coleta, Preparação e Análise de Dados da PUCRS. O projeto tem como objetivo aplicar técnicas de extração de dados em no cenário de exploração de conexões em um ambiente controlado (Wikipédia).
+Este repositório contém a resolução do *T1* da disciplina de Coleta, Preparação e Análise de Dados da PUCRS. O projeto tem como objetivo aplicar técnicas de extração de dados em no cenário de exploração de conexões em um ambiente controlado (Wikipédia).
 
 ## Tecnologias Utilizadas
 
